@@ -6,7 +6,7 @@ copy this code, modify it, use, distribute, and repackage it in any way you see 
 project exists for purely educational purposes, in the hopes that it may be useful as a learning
 tool and a demonstration of basic proficiency in Java programming
 
-Small Java game which implements the Breakout game from Assignment 3 of the freely available CS106A course on Stanford Engineering Everywhere: https://see.stanford.edu/Course/CS106A. This implementation completely eschews the ACM library, however, and uses java.awt directly for graphics rendering.
+Breakout is a small Java game which implements the Breakout game from Assignment 3 of the freely available CS106A course on Stanford Engineering Everywhere: https://see.stanford.edu/Course/CS106A. Unlike the course which packages the ACM library in its project for convenience, this implementation completely eschews the ACM library, and uses java.awt directly for graphics rendering.
 
 ***TO RUN:
 
